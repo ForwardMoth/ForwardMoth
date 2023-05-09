@@ -11,7 +11,7 @@
 ## Contact me
 
 - [Telegram](https://t.me/A8375)
-- [Email](AABudantsev@mephi.ru)
+- [Email](mailto:AABudantsev@mephi.ru)
 
 ## Github stats
 
