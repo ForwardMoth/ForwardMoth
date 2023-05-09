@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Artem</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer security and analyst student, Analyst from Russia.</h3>
 
-<!--
-**ForwardMoth/ForwardMoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Pet projects
 
-Here are some ideas to get you started:
+- [Parser Zakupki](https://github.com/ForwardMoth/zakupki.gov) - Parser of FTP server gov.zakupki.com
+- [Telegram bot boilerplate](https://github.com/ForwardMoth/telegram-bot-ruby-boilerplate) - Ruby on rails boilerplate Telegram bot using Webhook 
+- [Estate house market price](https://github.com/ForwardMoth/ML_estate_pricing) - Machine Learning project using Sberbank Russian Housing Market dataset
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+
+- [Telegram](https://t.me/A8375)
+- [Email](AABudantsev@mephi.ru)
+
+## Github stats
+
+[![ForwardMoth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForwardMoth)](https://github.com/ForwardMoth/ForwardMoth) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForwardMoth&layout=compact)](https://github.com/ForwardMoth/ForwardMoth) [![ForwardMoth's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ForwardMothMaster)](https://github.com/ForwardMoth/ForwardMoth) 
+
