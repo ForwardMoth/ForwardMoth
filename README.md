@@ -7,10 +7,11 @@
 - [Parser Zakupki](https://github.com/ForwardMoth/zakupki.gov) - Parser of FTP server gov.zakupki.com
 - [Telegram bot boilerplate](https://github.com/ForwardMoth/telegram-bot-ruby-boilerplate) - Ruby on rails boilerplate Telegram bot using Webhook 
 - [Estate house market price](https://github.com/ForwardMoth/ML_estate_pricing) - Machine Learning project using Sberbank Russian Housing Market dataset
+- [Typescript Sequelize boilerplate](https://github.com/ForwardMoth/Github-Actions) - Boilerplate of online shop API with CI/CD  
 
 ## Contact me
 
-- [Telegram](https://t.me/A8375)
+- [Telegram](https://t.me/ForwardMoth)
 - [Email](mailto:AABudantsev@mephi.ru)
 
 ## Github stats
