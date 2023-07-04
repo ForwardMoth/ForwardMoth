@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Artem</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer security and analyst student, Analyst from Russia.</h3>
+<h3 align="center">Computer security and analyst student, Backend Developer from Russia.</h3>
 
 ## Pet projects
 
 - [Parser Zakupki](https://github.com/ForwardMoth/zakupki.gov) - Parser of FTP server gov.zakupki.com
 - [Telegram bot boilerplate](https://github.com/ForwardMoth/telegram-bot-ruby-boilerplate) - Ruby on rails boilerplate Telegram bot using Webhook 
+- [Typescript Sequelize boilerplate](https://github.com/ForwardMoth/Github-Actions) - Boilerplate of online shop API with CI/CD
 - [Estate house market price](https://github.com/ForwardMoth/ML_estate_pricing) - Machine Learning project using Sberbank Russian Housing Market dataset
-- [Typescript Sequelize boilerplate](https://github.com/ForwardMoth/Github-Actions) - Boilerplate of online shop API with CI/CD  
 
 ## Contact me
 
