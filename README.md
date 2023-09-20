@@ -11,7 +11,7 @@
 
 ## Contact me
 
-- [Telegram](https://t.me/YouthTourist)
+- [Telegram](https://t.me/ForwardMoth)
 - [Email](mailto:AABudantsev@mephi.ru)
 
 ## Github stats
