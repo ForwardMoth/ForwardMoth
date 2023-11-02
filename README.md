@@ -11,8 +11,7 @@
 
 ## Contact me
 
-- [Telegram](https://t.me/ForwardMoth)
-- [Email](mailto:AABudantsev@mephi.ru)
+- [Telegram](https://t.me/PositiveDevLead)
 
 ## Github stats
 
