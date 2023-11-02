@@ -4,6 +4,7 @@
 
 ## Pet projects
 
+- [HomeMephi Bot](https://t.me/home_mephi_bot)
 - [Telegram bot boilerplate](https://github.com/ForwardMoth/telegram-bot-ruby-boilerplate) - Ruby on rails boilerplate Telegram bot using Webhook
 - [Estate house market price](https://github.com/ForwardMoth/ML_estate_pricing) - Machine Learning project using Sberbank Russian Housing Market dataset
 - [Typescript Sequelize boilerplate](https://github.com/ForwardMoth/Github-Actions) - Boilerplate of online shop API with CI/CD
