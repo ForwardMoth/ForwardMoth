@@ -1,15 +1,14 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Artem</a> 
+<h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">Артём!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Backend and Telegram-bot developer</h3>
+<h3 align="center">Я студент НИЯУ МИФИ. Занимаюсь веб-разработкой и разработкой Телеграм-ботов</h3>
 
 ## Pet projects
 
-- [HomeMephi Bot](https://t.me/home_mephi_bot) - Telegram-bot MephI University with schedule, marks, notifications and interesting features 
-- [Estate house market price](https://github.com/ForwardMoth/ML_estate_pricing) - Machine Learning project using Sberbank Russian Housing Market dataset
-- [Telegram bot boilerplate](https://github.com/ForwardMoth/telegram-bot-ruby-boilerplate) - Ruby on rails boilerplate Telegram bot using Webhook
-- [Typescript Sequelize boilerplate](https://github.com/ForwardMoth/Github-Actions) - Boilerplate of online shop API with CI/CD
-- [Ruby on Rails online-shop](https://github.com/ForwardMoth/online-shop) - Online shop on Ruby on Rails (backend + frontend)
-- [Parser Zakupki](https://github.com/ForwardMoth/zakupki.gov) - Parser of FTP server gov.zakupki.com
+- [HomeMephi Bot](https://t.me/home_mephi_bot) - **Один из лучших Телеграм-ботов среди университетов на просторе Telegram**. Официальный Телеграм-бот НИЯУ МИФИ. Содержит информацию о расписании, оценках, уведомлениях и другие полезности
+- [ML house market price](https://github.com/ForwardMoth/ML_estate_pricing) - **Машинное обучение** на основе датасета Сбербанка о рынке недвижимости 
+- [Typescript Github-Actions](https://github.com/ForwardMoth/Github-Actions) - Работа с **CI/CD** и **Github-Actions** на **Typescript** 
+- [Online shop](https://github.com/ForwardMoth/online-shop) - Разработка сайта онлайн магазина с использованием **Ruby on Rails** и css-фреймворка **Bootstrap**  
+- [Parser Zakupki](https://github.com/ForwardMoth/zakupki.gov) - Парсер FTP сервера gov.zakupki.com о закупочных процессов по 223-ФЗ на **Python**
 
 ## Contact me
 
