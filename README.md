@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">Артём!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я студент НИЯУ МИФИ. Занимаюсь веб-разработкой и разработкой Телеграм-ботов</h3>
+<h3 align="center">Я студент НИЯУ МИФИ. Занимаюсь веб-разработкой и разработкой Телеграм-бота</h3>
 
 ## Pet projects
 
