@@ -15,5 +15,7 @@
 
 [![ForwardMoth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForwardMoth)](https://github.com/ForwardMoth/ForwardMoth) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForwardMoth&layout=compact)](https://github.com/ForwardMoth/ForwardMoth) 
 
+## Leetcode stats
+
 [![ForwardMoth's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ForwardMothMaster)](https://github.com/ForwardMoth/ForwardMoth) 
 
