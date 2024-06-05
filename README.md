@@ -1,7 +1,7 @@
 ## About Me
 
-Hi! 👋
-My name is Artem. I'm a FullStack Developer and you can find my projects.
+Hi! 👋 <br>
+My name is Artem. I'm a FullStack Developer. <br>
 At this time, I'm graduating NRNU MEPhI.
 
 ## My contancts <a href="https://t.me/temabdn"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="95"/> </a>
