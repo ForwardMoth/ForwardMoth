@@ -2,7 +2,7 @@
 
 Hi! 👋 <br>
 My name is Artem.
-At this time, I'm graduating NRNU MEPhI.
+At this time, I'm software engineer in Innotech.
 
 ## My contancts 
 
